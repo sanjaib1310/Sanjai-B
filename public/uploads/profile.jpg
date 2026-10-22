@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="avatarBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="50%" stop-color="#0066CC"/>
+      <stop offset="100%" stop-color="#1E88E5"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" rx="200" fill="url(#avatarBg)"/>
+  <!-- Mathematician / Software Developer Silhouette & Monogram -->
+  <circle cx="200" cy="140" r="65" fill="#E2E8F0"/>
+  <path d="M90 350 C90 240, 310 240, 310 350 Z" fill="#E2E8F0"/>
+  <!-- Elegant Initial Badge -->
+  <circle cx="200" cy="140" r="50" fill="#0066CC"/>
+  <text x="200" y="158" text-anchor="middle" font-family="'Playfair Display', Georgia, serif" font-size="52" font-weight="bold" fill="#FFFFFF">
+    SB
+  </text>
+  <!-- Decorative border ring -->
+  <circle cx="200" cy="200" r="190" fill="none" stroke="#60A5FA" stroke-width="4" stroke-dasharray="10 6" opacity="0.6"/>
+</svg>
